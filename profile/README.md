@@ -1,2 +1,3 @@
 # ZK Auth
-Using zero-knowledge technology to verify if a user is a real person.
+
+Implementing Zero-Knowledge technology to ensure data integrity for the end user.
